@@ -1,4 +1,4 @@
 # function: tran a model to check whether the pictures have cats
-# author: AloneMasterMan
+# author: Gao Shanwen
 # name: test
 # platform: jupyter
